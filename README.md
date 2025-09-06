@@ -59,6 +59,22 @@ Ce projet me prépare à :
     Programmation orientée objet avancée
 
 
+
+
+
+
+
+    A Personal Discovery in Learning
+
+Through the process of writing and debugging code, I have made an essential discovery about myself as a learner: I comprehend complex instructions and mathematical concepts most effectively when they are presented to me in French. There is a unique ease and clarity that emerges, allowing me to grasp the underlying logic and procedures with significantly greater confidence.
+
+This revelation is more than a simple preference; it is a crucial key to my academic and personal growth. Understanding how I learn best allows me to seek out resources and structure my studies in a way that truly works for me.
+
+This document is a presentation of my journey. It is not merely a showcase of finished products, but a window into my process. Here, you will see the evolution of my understanding—the questions asked, the concepts unraveled, and the connections made. The focus is on my path to comprehension, facilitated by AI as a patient tutor, rather than just on my innate capacities.
+
+This is the story of how I learn. Enjoy the discovery.
+
+
 Pourquoi C'est Important
 Ces exercices ne sont pas que du code - ils apprennent à :
     Penser algorithmiquement pour résoudre des problèmes complexes
