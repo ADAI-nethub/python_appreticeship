@@ -1,5 +1,5 @@
 Python Climate Project - Learning Journey
-📚 What I've Learned So Far
+What I've Learned So Far
 1. Fonctions et Classes Python
     Création de fonctions avec paramètres et valeurs de retour
     Utilisation de classes pour modéliser des objets (comptes bancaires, formes géométriques)
@@ -26,15 +26,15 @@ Python Climate Project - Learning Journey
     Documentation avec docstrings
     Gestion des portées de variables (locales vs globales)
 
-🎯 Where This Is Going
-🌱 Projet Final : Simulateur d'Impact Environnemental
+Where This Is Going
+Projet Final : Simulateur d'Impact Environnemental
 
 Objectif : Créer une application complète qui permet de :
     Simuler différents scénarios de déforestation/reforestation
     Visualiser l'impact carbone sur plusieurs années
     Comparer différentes régions et stratégies
 
-📊 Fonctionnalités Prévisionnelles
+Fonctionnalités Prévisionnelles
 
     Tableau de Bord Interactif
         Visualisation graphique des données
@@ -59,11 +59,9 @@ Ce projet me prépare à :
     Programmation orientée objet avancée
 
 
-💡 Pourquoi C'est Important
+Pourquoi C'est Important
 Ces exercices ne sont pas que du code - ils apprennent à :
     Penser algorithmiquement pour résoudre des problèmes complexes
     Modéliser des systèmes réels (écologiques, économiques)
-
     Présenter des données de manière compréhensible
-
     Prendre des décisions basées sur des analyses quantitatives
